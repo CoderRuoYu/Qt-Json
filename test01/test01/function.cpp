@@ -19,7 +19,6 @@ void readfile(const char* FileName)
 
 }
 
-
 //Ğ´ÈëjsonÎÄ¼ş
 void writefile(const char* FileName)
 {

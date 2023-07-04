@@ -1,5 +1,4 @@
-﻿  test.cpp
-D:\2023githubcode\Qt-Json\test01\test01\test.cpp(8,2): error C2065: “var”: 未声明的标识符
-D:\2023githubcode\Qt-Json\test01\test01\test.cpp(8,6): error C2146: 语法错误: 缺少“;”(在标识符“sites”的前面)
-D:\2023githubcode\Qt-Json\test01\test01\test.cpp(8,6): error C2065: “sites”: 未声明的标识符
-D:\2023githubcode\Qt-Json\test01\test01\test.cpp(9,4): fatal  error C1903: 无法从以前的错误中恢复；正在停止编译
+﻿  function.cpp
+  test.cpp
+  正在生成代码...
+  test01.vcxproj -> D:\2023githubcode\Qt-Json\test01\x64\Debug\test01.exe
