@@ -16,7 +16,6 @@ void readfile(const char* FileName)
 		cout << buff << endl;
 	}
 	fin.close();
-
 }
 
 //Ð´ÈëjsonÎÄ¼þ

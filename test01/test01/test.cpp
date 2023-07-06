@@ -13,6 +13,8 @@ int main()
 	a.addValue("double", new jsonDouble(1.23));
 	a.addValue("string", new jsonString("abc"));
 	a.addValue("NULL", new jsonNull);
+
+
 	jsonArray b;
 	b.addValue( new jsonBool(true));
 	b.addValue( new jsonInt(12));
